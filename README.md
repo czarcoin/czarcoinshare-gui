@@ -1,6 +1,6 @@
 _**Notice**: Development on this repo is on pause until we finish our v3 rearchitecture. Please see https://github.com/storj/storj for ongoing v3 development._
 
-Storj Share
+Czarcoin Share
 ================
 
 [![Test Status](https://img.shields.io/travis/Storj/storjshare-gui/master.svg?label=tests&style=flat-square)](https://travis-ci.org/Storj/storjshare-gui)
